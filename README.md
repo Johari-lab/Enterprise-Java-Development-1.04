@@ -6,5 +6,5 @@ The length of the array must be 1 and above.
 2. Write a method in Java to find the smallest and second smallest elements of a given array and print it in the
 console.
 3. Write a method in Java that resolves this mathematical expression where x and y are two variables pre-set in your
-code:\
-<img src="https://render.githubusercontent.com/render/math?math$\color{white}$=x^2+(4*y/5-x)^2">
+code:
+<img src="https://render.githubusercontent.com/render/math?math/color{white}=x^2+(4*y/5-x)^2">
