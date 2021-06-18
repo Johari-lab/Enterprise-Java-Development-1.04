@@ -7,4 +7,4 @@ The length of the array must be 1 and above.
 console.
 3. Write a method in Java that resolves this mathematical expression where x and y are two variables pre-set in your
 code:\
-x^2 + (4*y/5 - x)^2
+$$x^2 + (4*y/5 - x)^2$$
